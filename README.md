@@ -2,10 +2,10 @@
 
 Create a TFlite model for Object Detection on mobile devices using Tensorflow 1.x
 
-My Colab Tutorial for this:
+## My Colab Tutorial for this:
 https://colab.research.google.com/drive/1KAf3SokwFDbA_jLr4bJwlVJ_NX_ob6lz?usp=sharing
 
-Watch my YouTube video for this:
+## Watch my YouTube video for this:
 [link](https://www.youtube.com)
 
 # CREDITS
@@ -64,3 +64,5 @@ You can download labeled datasets from the sites mentioned below. These sites co
 *   [X-zhangyang Github](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset)
 
 *   [Chandrikadeb7 Github](https://github.com/chandrikadeb7/Face-Mask-Detection)
+
+
